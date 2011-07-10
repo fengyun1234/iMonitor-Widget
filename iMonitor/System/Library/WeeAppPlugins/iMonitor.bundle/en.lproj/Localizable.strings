@@ -1,0 +1,16 @@
+"Active"="Active";
+"Inactive"="Inactive";
+"Free"="Free";
+"Wired"="Wired";
+"tot"="Total";
+"name" = "Name";
+"device" = "Device";
+"not_conn" = "not connected";
+"public" = "Public";
+"battery" = "Battery";
+"ad"="iFullStat.\nAvailable on the Appstore.";
+"fre"="Free";
+"used"="Used";
+"addr"="address";
+"black"="BL";
+"white"="WHT";

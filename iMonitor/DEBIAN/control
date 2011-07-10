@@ -1,0 +1,8 @@
+Package: com.iT0ny.imonitor
+Name: iMonitor Widget
+Version: 1.0
+Architecture: iphoneos-arm
+Description: iMonitor Widget для iOS 5
+Maintainer: iT0ny
+Author: iT0ny
+Section: System
