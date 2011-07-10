@@ -1,4 +1,4 @@
-export THEOS_DEVICE_IP=192.168.0.3
+export THEOS_DEVICE_IP=DEVICEIP
 SDKVERSION = 5.0
 include theos/makefiles/common.mk
 
