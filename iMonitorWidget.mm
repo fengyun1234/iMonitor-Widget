@@ -1,6 +1,11 @@
+
+@interface UIDevice (buildVersion)
+-(id)buildVersion;
+@end
+
 #import "header.h"
 #define fontSize 14.0
-@implementation WeeAppTestController
+@implementation iMonitorController
 
 CGFloat kScrollObjHeight	= 91.0;
 CGFloat kScrollObjWidth	= 320.0;
