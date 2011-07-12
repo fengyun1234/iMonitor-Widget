@@ -42,7 +42,7 @@
 #import <CoreFoundation/CoreFoundation.h>
 #import <AVFoundation/AVFoundation.h>
 
-@interface WeeAppTestController : NSObject <BBWeeAppController>{
+@interface iMonitorController : NSObject <BBWeeAppController>{
     NSThread *thread1;
     NSTimer *timer1;
     NSBundle *locBundle;

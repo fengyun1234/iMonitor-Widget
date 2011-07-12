@@ -349,7 +349,7 @@ const NSUInteger kNumImages		= 5;
 
     //NSAutoreleasePool *threadPool=[[NSAutoreleasePool alloc]init];
 
-    UIImage *bg = [[UIImage imageWithContentsOfFile:@"/System/Library/WeeAppPlugins/iMonitor.bundle/WeeAppBackground.png"] stretchableImageWithLeftCapWidth:5 topCapHeight:90];
+    UIImage *bg = [[UIImage imageWithContentsOfFile:@"/System/Library/WeeAppPlugins/iMonitor.bundle/background.png"] stretchableImageWithLeftCapWidth:5 topCapHeight:90];
     device1 = [AVCaptureDevice defaultDeviceWithMediaType:AVMediaTypeVideo];
     
     if (scroll == nil)
